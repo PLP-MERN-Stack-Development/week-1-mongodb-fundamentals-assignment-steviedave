@@ -58,16 +58,6 @@ Then paste the queries from `queries.js`.
 
 ---
 
-## 🖼️ Screenshot
-Includes a screenshot named `screenshot.png` showing:
-
-- `plp_bookstore` database
-- `books` collection
-- A few sample documents
-- Indexes
-
----
-
 ## ✅ Submission Checklist
 
 - [x] `insert_books.js` file included
