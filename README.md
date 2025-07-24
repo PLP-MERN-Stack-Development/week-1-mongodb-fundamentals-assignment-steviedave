@@ -133,15 +133,16 @@ db.books.deleteOne({ title: "Twilight" })
 
 ### 📸 1. Populating Database with `mongosh`
 
-![Inserted via mongosh](./screenshots/Screenshot%202025-07-24%20103137.png)
+![Inserted via mongosh](./screenshots/Screenshot%202025-07-24%20102448.png)
+![Inserted via mongosh](./screenshots/Screenshot%202025-07-24%20102528.png)
+![Inserted via mongosh](./screenshots/Screenshot%202025-07-24%20102509.png)
 
 ---
 
 ### 📸 2. Viewing in MongoDB Compass
 
-*Add your screenshot showing the data in Compass*
-
-![MongoDB Compass View](./screenshot-compass.png)
+![MongoDB Compass](./screenshots/Screenshot%202025-07-24%20103137.png)
+![MongoDB Compass](./screenshots/Screenshot%202025-07-24%20103212.png)
 
 ---
 
