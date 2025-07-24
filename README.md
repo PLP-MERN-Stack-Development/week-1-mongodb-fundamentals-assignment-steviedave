@@ -133,8 +133,7 @@ db.books.deleteOne({ title: "Twilight" })
 
 ### 📸 1. Populating Database with `mongosh`
 
-![Inserted via mongosh](./screenshots/Screenshot%2025-07-24%20102448.png)
-
+![Inserted via mongosh](./screenshots/Screenshot%202025-07-24%20103137.png)
 
 ---
 
